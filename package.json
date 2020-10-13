@@ -1,0 +1,11 @@
+{
+  "name": "MqttClient-With-Nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Deathsooul/MqttClient-With-Nodejs.git",
+  "author": "Wallace <wbescrovaine@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^4.2.1"
+  }
+}
